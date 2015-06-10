@@ -16,3 +16,6 @@ C:\Users\Dalie\Desktop\varianta buna\WindowsFormsApplication1\WindowsFormsApplic
 C:\Users\Dalie\Desktop\varianta buna\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
 C:\Users\Dalie\Desktop\varianta buna\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 C:\Users\Dalie\Desktop\varianta buna\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Constantin\Desktop\osfinal\OsProject\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Constantin\Desktop\osfinal\OsProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Constantin\Desktop\osfinal\OsProject\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
